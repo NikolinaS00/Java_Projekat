@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-08-29T08:10:32.183071300Z</date>
+  <millis>1661760632183</millis>
+  <nanos>71300</nanos>
+  <sequence>0</sequence>
+  <logger>simulation.GameControll</logger>
+  <level>SEVERE</level>
+  <class>simulation.GameControll</class>
+  <method>getPath</method>
+  <thread>15</thread>
+  <message>java.lang.ArrayIndexOutOfBoundsException: Index 42 out of bounds for length 42</message>
+</record>
+<record>
+  <date>2022-08-29T08:10:32.183071300Z</date>
+  <millis>1661760632183</millis>
+  <nanos>71300</nanos>
+  <sequence>0</sequence>
+  <logger>simulation.GameControll</logger>
+  <level>SEVERE</level>
+  <class>simulation.GameControll</class>
+  <method>getPath</method>
+  <thread>15</thread>
+  <message>java.lang.ArrayIndexOutOfBoundsException: Index 42 out of bounds for length 42</message>
+</record>
+</log>
